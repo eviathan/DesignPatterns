@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Strategy Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/StrategyPattern/bin/Debug/net5.0/StrategyPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/StrategyPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Observer Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ObserverPattern/bin/Debug/net7.0/ObserverPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ObserverPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+    ]
+}
