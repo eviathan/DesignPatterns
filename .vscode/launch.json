@@ -26,5 +26,16 @@
             "console": "internalConsole",
             "stopAtEntry": false
         },
+        {
+            "name": "Decorator Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DecoratorPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
     ]
 }

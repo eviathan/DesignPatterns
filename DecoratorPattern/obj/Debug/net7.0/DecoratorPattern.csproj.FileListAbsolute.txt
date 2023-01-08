@@ -1,0 +1,15 @@
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.deps.json
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.runtimeconfig.json
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.dll
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/bin/Debug/net7.0/DecoratorPattern.pdb
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.csproj.AssemblyReference.cache
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.AssemblyInfo.cs
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.dll
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/refint/DecoratorPattern.dll
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.pdb
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/DecoratorPattern.genruntimeconfig.cache
+/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/obj/Debug/net7.0/ref/DecoratorPattern.dll
