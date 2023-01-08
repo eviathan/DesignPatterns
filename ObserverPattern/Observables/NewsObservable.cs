@@ -8,13 +8,13 @@ namespace ObserverPattern.Observables
 
         private List<Article> _articles { get; set; } = new List<Article>();
 
-        public void Add(IObserver observer)
+        public void Register(IObserver observer)
         {
             observer.Observable = this;
             _observers.Add(observer.Id, observer);
         }
 
-        public void Remove(IObserver observer)
+        public void Deregister(IObserver observer)
         {
             observer.Observable = default;
             _observers.Remove(observer.Id);
