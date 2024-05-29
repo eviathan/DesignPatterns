@@ -4,7 +4,6 @@
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.dev.json
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net5.0/StrategyPattern.dll
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net5.0/StrategyPattern.pdb
-/Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.AssemblyReference.cache
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfoInputs.cache
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfo.cs
@@ -14,3 +13,4 @@
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.pdb
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.genruntimeconfig.cache
 /Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/ref/StrategyPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net5.0/StrategyPattern.sourcelink.json

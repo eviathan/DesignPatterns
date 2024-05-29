@@ -1,0 +1,15 @@
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.deps.json
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.runtimeconfig.json
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.AssemblyInfoInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.AssemblyInfo.cs
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.sourcelink.json
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/refint/FactoryMethodPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.genruntimeconfig.cache
+/Users/brian/Dev/Learning/DesignPatterns/FactoryMethodPattern/obj/Debug/net8.0/ref/FactoryMethodPattern.dll

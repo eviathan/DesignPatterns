@@ -1,0 +1,15 @@
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net8.0/StrategyPattern
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net8.0/StrategyPattern.deps.json
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net8.0/StrategyPattern.runtimeconfig.json
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net8.0/StrategyPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/bin/Debug/net8.0/StrategyPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfo.cs
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.sourcelink.json
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/refint/StrategyPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
+/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll
