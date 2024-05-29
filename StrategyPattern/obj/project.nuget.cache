@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "N7cMnGfFTXUqFZHVvcnY212tlJQOCvxXdVx/1mIfZ2pP0ggxSnoD/rjwN03n2QcY2bsrsqfG/Rf3xoXPhHE+LQ==",
+  "dgSpecHash": "nRmM+29qTTeAivx8C2TszYXH82rYe7xxFGhB/sVvozkwNvk6hknXvqR3zY+lpS2TOQXHCEgyBeehljrKJBKbIA==",
   "success": true,
-  "projectFilePath": "/Users/Brian/Dev/Learning/DesignPatterns/StrategyPattern/StrategyPattern.csproj",
+  "projectFilePath": "/Users/brian/Dev/Learning/DesignPatterns/StrategyPattern/StrategyPattern.csproj",
   "expectedPackageFiles": [
-    "/Users/Brian/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

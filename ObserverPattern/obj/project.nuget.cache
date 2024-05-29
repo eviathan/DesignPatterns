@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AsqZKfFJVBru/msbXA/YIzD3JPUr2byjFt7dedhkwjYHBQ9wMz06A1jEM2FuFIWPB00HKFToFFJwdqGYH9M9lA==",
+  "dgSpecHash": "dKHk9jfpXadXVGhLKVFH5M0rNYwMHsXqBcevEBjlhx69Z7Pr++YgXdFpd8Ys8WF2Ak0XIKqogouH744D2BGe2g==",
   "success": true,
-  "projectFilePath": "/Users/Brian/Dev/Learning/DesignPatterns/ObserverPattern/ObserverPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/brian/Dev/Learning/DesignPatterns/ObserverPattern/ObserverPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

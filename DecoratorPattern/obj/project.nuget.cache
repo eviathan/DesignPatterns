@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DZsUsO/6Q/NC9+5nssKCw1SOFrRqVx+NDHk4xzDT/Q8fV9AbAKIXQJemf4TG7/VREBpItMmyTA6Gi1QaUwbBWA==",
+  "dgSpecHash": "U0jrAevYbxxxcwfY38nn3Db4Gdhoda3QmZEqFd7ySlGhZroX8ctHrsL6CmaFl8pnFRLBqM4UWZq366QGkqMxmQ==",
   "success": true,
-  "projectFilePath": "/Users/Brian/Dev/Learning/DesignPatterns/DecoratorPattern/DecoratorPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/brian/Dev/Learning/DesignPatterns/DecoratorPattern/DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/brian/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
