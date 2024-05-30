@@ -59,5 +59,16 @@
             "console": "internalConsole",
             "stopAtEntry": false
         },
+        {
+            "name": "Singleton Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/SingletonPattern/bin/Debug/net8.0/SingletonPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/SingletonPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
     ]
 }
