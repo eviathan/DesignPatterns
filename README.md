@@ -4,6 +4,10 @@
 
 2. [Observer Pattern](https://github.com/eviathan/DesignPatterns/tree/main/ObserverPattern)
 
-2. [Decorator Pattern](https://github.com/eviathan/DesignPatterns/tree/main/DecoratorPattern)
+3. [Decorator Pattern](https://github.com/eviathan/DesignPatterns/tree/main/DecoratorPattern)
 
-2. [Factory Method Pattern](https://github.com/eviathan/DesignPatterns/tree/main/FactoryMethodPattern)
+4. [Factory Method Pattern](https://github.com/eviathan/DesignPatterns/tree/main/FactoryMethodPattern)
+
+5. [Abstract Factory Pattern](https://github.com/eviathan/DesignPatterns/tree/main/AbstractFactoryPattern)
+
+6. [Singleton Pattern](https://github.com/eviathan/DesignPatterns/tree/main/Singleton)
