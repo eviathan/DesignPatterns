@@ -1,7 +1,8 @@
 ﻿using FactoryMethodPattern.Enums;
 using FactoryMethodPattern.Factories;
+using FactoryMethodPattern.Interfaces;
 
-var cakeFactory = new CakeFactory();
+ICakeFactory cakeFactory = new CakeFactory();
 
 
 var carrotCake1 = cakeFactory.Bake(CakeType.CarrotCake);

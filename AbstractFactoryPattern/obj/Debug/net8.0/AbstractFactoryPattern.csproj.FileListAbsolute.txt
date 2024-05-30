@@ -1,0 +1,15 @@
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern.deps.json
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern.runtimeconfig.json
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.AssemblyInfoInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.AssemblyInfo.cs
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.sourcelink.json
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/refint/AbstractFactoryPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/AbstractFactoryPattern.genruntimeconfig.cache
+/Users/brian/Dev/Learning/DesignPatterns/AbstractFactoryPattern/obj/Debug/net8.0/ref/AbstractFactoryPattern.dll

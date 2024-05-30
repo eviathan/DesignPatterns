@@ -48,5 +48,16 @@
             "console": "internalConsole",
             "stopAtEntry": false
         },
+        {
+            "name": "Abstract Factory Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/AbstractFactoryPattern/bin/Debug/net8.0/AbstractFactoryPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/AbstractFactoryPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
     ]
 }
