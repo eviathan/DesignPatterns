@@ -70,5 +70,16 @@
             "console": "internalConsole",
             "stopAtEntry": false
         },
+        {
+            "name": "Command Pattern",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/CommandPattern/bin/Debug/net8.0/CommandPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CommandPattern",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
     ]
 }

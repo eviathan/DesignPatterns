@@ -11,3 +11,5 @@
 5. [Abstract Factory Pattern](https://github.com/eviathan/DesignPatterns/tree/main/AbstractFactoryPattern)
 
 6. [Singleton Pattern](https://github.com/eviathan/DesignPatterns/tree/main/SingletonPattern)
+
+7. [Command Pattern](https://github.com/eviathan/DesignPatterns/tree/main/CommandPattern)

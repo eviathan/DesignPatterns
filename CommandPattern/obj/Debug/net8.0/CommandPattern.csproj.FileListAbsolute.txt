@@ -1,0 +1,15 @@
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/bin/Debug/net8.0/CommandPattern
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/bin/Debug/net8.0/CommandPattern.deps.json
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/bin/Debug/net8.0/CommandPattern.runtimeconfig.json
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/bin/Debug/net8.0/CommandPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/bin/Debug/net8.0/CommandPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.AssemblyInfoInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.AssemblyInfo.cs
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.sourcelink.json
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/refint/CommandPattern.dll
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.pdb
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/CommandPattern.genruntimeconfig.cache
+/Users/brian/Dev/Learning/DesignPatterns/CommandPattern/obj/Debug/net8.0/ref/CommandPattern.dll
